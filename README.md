@@ -9,8 +9,6 @@ I am Andrey and I am a Python Backend developer, maybe want to be Fullstack deve
 #### Frontend
 - Figma
 - Bootstrap
-- Gulp
-- Webpack
 - Sass
 - Javascript
 
