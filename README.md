@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Andrey and I am a Python Backend developer.
 
 🔥 I am improving my qualifications at Yandex.Praktikum as a backend developer.
 
-#### 🛠️ Commonly used Languages and Tools
+### 🛠️ Commonly used Languages and Tools
 
-##### Frontend
+#### Frontend
 - Figma
 - Bootstrap
 - Gulp
@@ -14,7 +14,7 @@ I am Andrey and I am a Python Backend developer.
 - Sass
 - Javascript
 
-##### Backend
+#### Backend
 - Ubuntu
 - Docker
 - Docker Compose
@@ -25,7 +25,7 @@ I am Andrey and I am a Python Backend developer.
 - ModX
 - Fenom template engine
 
-##### 🏹 I want to learn in the near future:
+#### 🏹 I want to learn in the near future:
 - FastAPI
 - SQLAlchemy ORM
 - Alembic for migrations
@@ -34,13 +34,13 @@ I am Andrey and I am a Python Backend developer.
 - TypeScript
 - NextJS (maybe?)
 
-##### Some other skills I'm definitely good at:
+#### Some other skills I'm definitely good at:
 - Tables (automate calculations is my passion Excel Google Sheets <3)
 - Adobe Photoshop
 - Solidworks (sheet metal models, I learned how to automate them to quickly create similar)
 - Kompas3D (same as Solidworks)
 
-##### 🤝 My socials
+#### 🤝 My socials
 
 Email: <a href="mailto:atikhobaev@gmail.com">atikhobaev@gmail.com</a> <br>
 Telegram: <a href="https://t.me/atikhobaev" target="_blank">@atikhobaev</a> <br>
