@@ -32,7 +32,7 @@ I am Andrey and I am a Python Backend developer.
 - Aiogram for integration with Telegram
 - React
 - TypeScript
-- NextJS (maybe?)
+- NextJS
 
 #### Some other skills I'm definitely good at:
 - Tables (automate calculations is my passion Excel Google Sheets <3)
