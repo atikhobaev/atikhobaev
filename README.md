@@ -40,8 +40,6 @@ Some other skills I'm definitely good at:
 - Solidworks (sheet metal models, I learned how to automate them to quickly create similar)
 - Kompas3D (same as Solidworks)
 
-PS I'm big lover of tables, automate calculations is my passion. Excel, Google Sheets <3
-
 🤝 My socials
 
 Email: <a href="mailto:atikhobaev@gmail.com">atikhobaev@gmail.com</a> <br>
