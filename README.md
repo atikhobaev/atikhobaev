@@ -59,7 +59,10 @@ I am Andrey and I am a Python Backend developer.
   </a>&nbsp; -->
   <a href="https://www.sqlite.org/index.html" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" width="50" height="25"/>
-  </a>
+  </a>&nbsp;
+  <a href="https://modx.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/modx-logo.svg" alt="ModX" width="25" height="25"/>
+  </a>&nbsp;
 </p>
 
 🏹 I want to learn in the near future:
@@ -73,9 +76,6 @@ I am Andrey and I am a Python Backend developer.
   </a>&nbsp;
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" width="25" height="25"/>
-  </a>&nbsp;
-  <a href="https://modx.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/modx-logo.svg" alt="ModX" width="25" height="25"/>
   </a>&nbsp;
   <!-- <a href="https://www.haskell.org/" target="_blank"> 
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G0P1KX-J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/5sbbqt9sxzw0sspnr7at.png" alt="Haskell" width="35" height="25"/>
