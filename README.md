@@ -90,7 +90,7 @@ I am Andrey and I am a Python Backend developer.
 
 🤝 My socials
 
-<ul>
+<ul style="list-style: none;">
   <li>
     <a href="mailto:atikhobaev@gmail.com">
       <img src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" alt="e-mail" width="25" height="20" />
