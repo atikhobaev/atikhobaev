@@ -46,13 +46,9 @@ PS I'm big lover of tables, automate calculations is my passion. Excel, Google S
 
 Email: <a href="mailto:atikhobaev@gmail.com">atikhobaev@gmail.com</a> <br>
 Telegram: <a href="https://t.me/atikhobaev" target="_blank">@atikhobaev</a> <br>
+Instagram: <a href="https://www.instagram.com/atikhobaev/" target="_blank">@atikhobaev</a> <br>
+Twitter: <a href="https://twitter.com/atikhobaev" target="_blank">@atikhobaev</a> <br>
 <!-- <a href="https://www.linkedin.com/" target="_blank">atikhobaev</a> <br> -->
-<a href="https://www.instagram.com/atikhobaev/" target="_blank">@atikhobaev</a> <br>
-
-<a href="https://twitter.com/atikhobaev" target="_blank">
- <img src="https://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="Twitter" width="20" height="20" /> @atikhobaev
-</a> <br>
-
 
 <!--
 **atikhobaev/atikhobaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
