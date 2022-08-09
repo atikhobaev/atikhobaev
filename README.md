@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am Andrey and I am a Python Backend developer.
+I am Andrey and I am a Python Backend developer, maybe want to be Fullstack developer 🤔.
 
-🔥 I am improving my qualifications at Yandex.Praktikum as a backend developer.
+🔥 Now I am improving my qualifications at Yandex.Praktikum as a backend developer.
 
 ### 🛠️ Commonly used Languages and Tools
 
