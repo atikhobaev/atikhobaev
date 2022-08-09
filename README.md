@@ -91,24 +91,24 @@ I am Andrey and I am a Python Backend developer.
 🤝 My socials
 
 <a href="mailto:atikhobaev@gmail.com">
-  <img src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" alt="e-mail" width="25" height="20" />
-</a> atikhobaev@gmail.com <br>
+  <img src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" alt="e-mail" width="25" height="20" /> atikhobaev@gmail.com
+</a> <br>
 
 <a href="https://t.me/atikhobaev" target="_blank">
-  <img src="https://www.freeiconspng.com/thumbs/telegram-icon/web-telegram-icon--captiva-iconset--bokehlicia-4.png" alt="Telegram" width="20" height="20" />
-</a> @atikhobaev <br>
+  <img src="https://www.freeiconspng.com/thumbs/telegram-icon/web-telegram-icon--captiva-iconset--bokehlicia-4.png" alt="Telegram" width="20" height="20" /> @atikhobaev
+</a> <br>
 
 <!-- <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" />
   </a> -->
 
 <a href="https://www.instagram.com/atikhobaev/" target="_blank">
- <img src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png" alt="Insta" width="20" height="20" />
-</a> @atikhobaev <br>
+ <img src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png" alt="Insta" width="20" height="20" /> @atikhobaev
+</a> <br>
 
 <a href="https://twitter.com/atikhobaev" target="_blank">
- <img src="https://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="Twitter" width="20" height="20" />
-</a> @atikhobaev <br>
+ <img src="https://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="Twitter" width="20" height="20" /> @atikhobaev
+</a> <br>
 
 
 <!--
